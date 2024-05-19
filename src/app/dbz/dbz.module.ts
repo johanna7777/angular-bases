@@ -12,7 +12,7 @@ import { AddCharacterComponent } from './components/add-character/add-character.
   declarations: [
     MainPageComponent,
     ListComponent,
-    AddCharacterComponent,
+    AddCharacterComponent
   ],
   exports: [
     MainPageComponent
